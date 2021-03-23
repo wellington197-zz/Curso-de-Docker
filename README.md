@@ -13,3 +13,9 @@ sudo docker ps
 <h3>Lista os containers ATIVOS E INATIVOS iniciados na Enginer</h3>
 sudo docker ps -a
 
+<h3>Lista os containers ATIVOS e iniciados na Enginer</h3>
+sudo docker ps
+
+<h3>Lista os containers ATIVOS E INATIVOS iniciados na Enginer</h3>
+sudo docker ps -a
+
